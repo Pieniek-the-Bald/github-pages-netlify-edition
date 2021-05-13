@@ -1,1 +1,1 @@
-# pieniek-the-bald.github.io
+Work in progress of my personal page created during "The Complete Web Development Bootcamp" on Udemy by The App Brewery.
