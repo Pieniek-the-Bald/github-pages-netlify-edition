@@ -93,10 +93,8 @@ hr {
 }
 
 .python-text {
-    text-align: left;
+    text-align: right;
     line-height: 2;
-    /* position: relative; */
-    /* right: 30px; */
 }
 
 .skill-row {
