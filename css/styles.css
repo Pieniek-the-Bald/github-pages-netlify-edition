@@ -45,16 +45,10 @@ hr {
     margin-bottom: 70px;
 }
 
-.top-container {
-    background-color: #E4F9F5;
-    position: relative;
-    padding-top: 100px;
-}
-
-.middle-container {
-    background-color: #EAF6F6;
-    padding: 50px 0;
-    margin-bottom: 0;
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
 }
 
 .bottom-container {
@@ -63,25 +57,9 @@ hr {
     padding: 40px 0;
 }
 
-.top-cloud {
-    position: absolute;
-    right: 350px;
-    top: 30px;
-}
-
-.bottom-cloud {
-    position: absolute;
-    left: 300px;
-    bottom: 300px;
-}
-
-.programmer {
-    font-weight: normal;
-}
-
-.skill-row {
-    margin: 100px auto 100px auto;
-    width: 50%;
+.computer-image {
+    width: 200px;
+    float: left;
 }
 
 .computer-text {
@@ -91,9 +69,27 @@ hr {
     left: 30px;
 }
 
-.computer-image {
+.copyright {
+    color: #eaf6f6;
+}
+
+.footer-link {
+    margin: 20px;
+}
+
+.middle-container {
+    background-color: #EAF6F6;
+    padding: 50px 0;
+    margin-bottom: 0;
+}
+
+.programmer {
+    font-weight: normal;
+}
+
+.python-image {
     width: 25%;
-    float: left;
+    float: right;
 }
 
 .python-text {
@@ -103,17 +99,21 @@ hr {
     /* right: 30px; */
 }
 
-.python-image {
-    width: 25%;
-    float: right;
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
 }
 
-.copyright {
-    color: #eaf6f6;
+.top-cloud {
+    position: absolute;
+    right: 350px;
+    top: 30px;
 }
 
-.footer-link {
-    margin: 20px;
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
 }
 
 .BUTTON_YAB {
